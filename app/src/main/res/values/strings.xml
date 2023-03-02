@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kości</string>
+    <string name="header">Dice Roller</string>
+    <string name="count_hint">Enter dice count</string>
+    <string name="wall_hint">Enter ammount of walls</string>
+    <string name="add_dice">Add dice</string>
+    <string name="roll">Roll dice</string>
+    <string name="result_placeholder">Result will be shown here</string>
+    <string name="dice_template">%iD%i</string>
+    <string name="dice_placeholder">Selected dice will be shown here</string>
+</resources>
